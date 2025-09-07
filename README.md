@@ -1,2 +1,4 @@
-# bible_corpus
-Bible corpus using LLM. Dominus illuminatio mea
+# bible corpus
+## Dominus illuminatio mea
+
+A RAG system for Bible corpus using LLM. 
